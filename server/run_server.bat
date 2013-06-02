@@ -1,0 +1,2 @@
+node WizardClashServer.js
+pause
